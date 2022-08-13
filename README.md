@@ -1,2 +1,3 @@
 # Machine-Learning
-# explore the ML/DL Algorithms 
+## 1. Linear Regression 
+## 2. Logistic Regression 
